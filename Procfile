@@ -1,1 +1,1 @@
-worker: python bitnoia.py
+web: bitnoia.py app:app
